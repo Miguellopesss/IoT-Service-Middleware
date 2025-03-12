@@ -1,0 +1,70 @@
+C:\Users\Jorge Oliveira\Desktop\IS\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\Scenario2_IS.exe.config
+C:\Users\Jorge Oliveira\Desktop\IS\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\Scenario2_IS.exe
+C:\Users\Jorge Oliveira\Desktop\IS\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\Scenario2_IS.pdb
+C:\Users\Jorge Oliveira\Desktop\IS\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jorge Oliveira\Desktop\IS\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\RestSharp.dll
+C:\Users\Jorge Oliveira\Desktop\IS\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\System.Buffers.dll
+C:\Users\Jorge Oliveira\Desktop\IS\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\System.Memory.dll
+C:\Users\Jorge Oliveira\Desktop\IS\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Jorge Oliveira\Desktop\IS\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Jorge Oliveira\Desktop\IS\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Jorge Oliveira\Desktop\IS\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\System.Text.Json.dll
+C:\Users\Jorge Oliveira\Desktop\IS\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Jorge Oliveira\Desktop\IS\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\System.ValueTuple.dll
+C:\Users\Jorge Oliveira\Desktop\IS\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Jorge Oliveira\Desktop\IS\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\RestSharp.xml
+C:\Users\Jorge Oliveira\Desktop\IS\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\System.Buffers.xml
+C:\Users\Jorge Oliveira\Desktop\IS\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\System.Memory.xml
+C:\Users\Jorge Oliveira\Desktop\IS\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Jorge Oliveira\Desktop\IS\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Jorge Oliveira\Desktop\IS\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Jorge Oliveira\Desktop\IS\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\System.Text.Json.xml
+C:\Users\Jorge Oliveira\Desktop\IS\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Jorge Oliveira\Desktop\IS\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\System.ValueTuple.xml
+C:\Users\Jorge Oliveira\Desktop\IS\Scenario2_IS\Scenario2_IS\Scenario2_IS\obj\Debug\Scenario2_IS.csproj.AssemblyReference.cache
+C:\Users\Jorge Oliveira\Desktop\IS\Scenario2_IS\Scenario2_IS\Scenario2_IS\obj\Debug\Scenario2_IS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jorge Oliveira\Desktop\IS\Scenario2_IS\Scenario2_IS\Scenario2_IS\obj\Debug\Scenario2_IS.exe.config
+C:\Users\Jorge Oliveira\Desktop\IS\Scenario2_IS\Scenario2_IS\Scenario2_IS\obj\Debug\Scenario2_IS.Dashboard.resources
+C:\Users\Jorge Oliveira\Desktop\IS\Scenario2_IS\Scenario2_IS\Scenario2_IS\obj\Debug\Scenario2_IS.Properties.Resources.resources
+C:\Users\Jorge Oliveira\Desktop\IS\Scenario2_IS\Scenario2_IS\Scenario2_IS\obj\Debug\Scenario2_IS.csproj.GenerateResource.cache
+C:\Users\Jorge Oliveira\Desktop\IS\Scenario2_IS\Scenario2_IS\Scenario2_IS\obj\Debug\Scenario2_IS.csproj.CoreCompileInputs.cache
+C:\Users\Jorge Oliveira\Desktop\IS\Scenario2_IS\Scenario2_IS\Scenario2_IS\obj\Debug\Scenario.2825DA04.Up2Date
+C:\Users\Jorge Oliveira\Desktop\IS\Scenario2_IS\Scenario2_IS\Scenario2_IS\obj\Debug\Scenario2_IS.exe
+C:\Users\Jorge Oliveira\Desktop\IS\Scenario2_IS\Scenario2_IS\Scenario2_IS\obj\Debug\Scenario2_IS.pdb
+C:\Users\Jorge Oliveira\Desktop\IS\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Jorge Oliveira\Desktop\IS\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\System.IO.Pipelines.xml
+E:\Universidade\3ºAno\ProjetoIS_D17\Project\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\Scenario2_IS.exe.config
+E:\Universidade\3ºAno\ProjetoIS_D17\Project\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\Scenario2_IS.exe
+E:\Universidade\3ºAno\ProjetoIS_D17\Project\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\Scenario2_IS.pdb
+E:\Universidade\3ºAno\ProjetoIS_D17\Project\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Universidade\3ºAno\ProjetoIS_D17\Project\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\RestSharp.dll
+E:\Universidade\3ºAno\ProjetoIS_D17\Project\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\System.Buffers.dll
+E:\Universidade\3ºAno\ProjetoIS_D17\Project\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\System.IO.Pipelines.dll
+E:\Universidade\3ºAno\ProjetoIS_D17\Project\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\System.Memory.dll
+E:\Universidade\3ºAno\ProjetoIS_D17\Project\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\System.Numerics.Vectors.dll
+E:\Universidade\3ºAno\ProjetoIS_D17\Project\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Universidade\3ºAno\ProjetoIS_D17\Project\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\System.Text.Encodings.Web.dll
+E:\Universidade\3ºAno\ProjetoIS_D17\Project\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\System.Text.Json.dll
+E:\Universidade\3ºAno\ProjetoIS_D17\Project\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Universidade\3ºAno\ProjetoIS_D17\Project\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\System.ValueTuple.dll
+E:\Universidade\3ºAno\ProjetoIS_D17\Project\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Universidade\3ºAno\ProjetoIS_D17\Project\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\RestSharp.xml
+E:\Universidade\3ºAno\ProjetoIS_D17\Project\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\System.Buffers.xml
+E:\Universidade\3ºAno\ProjetoIS_D17\Project\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\System.IO.Pipelines.xml
+E:\Universidade\3ºAno\ProjetoIS_D17\Project\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\System.Memory.xml
+E:\Universidade\3ºAno\ProjetoIS_D17\Project\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\System.Numerics.Vectors.xml
+E:\Universidade\3ºAno\ProjetoIS_D17\Project\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Universidade\3ºAno\ProjetoIS_D17\Project\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\System.Text.Encodings.Web.xml
+E:\Universidade\3ºAno\ProjetoIS_D17\Project\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\System.Text.Json.xml
+E:\Universidade\3ºAno\ProjetoIS_D17\Project\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Universidade\3ºAno\ProjetoIS_D17\Project\Scenario2_IS\Scenario2_IS\Scenario2_IS\bin\Debug\System.ValueTuple.xml
+E:\Universidade\3ºAno\ProjetoIS_D17\Project\Scenario2_IS\Scenario2_IS\Scenario2_IS\obj\Debug\Scenario2_IS.csproj.AssemblyReference.cache
+E:\Universidade\3ºAno\ProjetoIS_D17\Project\Scenario2_IS\Scenario2_IS\Scenario2_IS\obj\Debug\Scenario2_IS.csproj.SuggestedBindingRedirects.cache
+E:\Universidade\3ºAno\ProjetoIS_D17\Project\Scenario2_IS\Scenario2_IS\Scenario2_IS\obj\Debug\Scenario2_IS.exe.config
+E:\Universidade\3ºAno\ProjetoIS_D17\Project\Scenario2_IS\Scenario2_IS\Scenario2_IS\obj\Debug\Scenario2_IS.Dashboard.resources
+E:\Universidade\3ºAno\ProjetoIS_D17\Project\Scenario2_IS\Scenario2_IS\Scenario2_IS\obj\Debug\Scenario2_IS.Properties.Resources.resources
+E:\Universidade\3ºAno\ProjetoIS_D17\Project\Scenario2_IS\Scenario2_IS\Scenario2_IS\obj\Debug\Scenario2_IS.csproj.GenerateResource.cache
+E:\Universidade\3ºAno\ProjetoIS_D17\Project\Scenario2_IS\Scenario2_IS\Scenario2_IS\obj\Debug\Scenario2_IS.csproj.CoreCompileInputs.cache
+E:\Universidade\3ºAno\ProjetoIS_D17\Project\Scenario2_IS\Scenario2_IS\Scenario2_IS\obj\Debug\Scenario.2825DA04.Up2Date
+E:\Universidade\3ºAno\ProjetoIS_D17\Project\Scenario2_IS\Scenario2_IS\Scenario2_IS\obj\Debug\Scenario2_IS.exe
+E:\Universidade\3ºAno\ProjetoIS_D17\Project\Scenario2_IS\Scenario2_IS\Scenario2_IS\obj\Debug\Scenario2_IS.pdb

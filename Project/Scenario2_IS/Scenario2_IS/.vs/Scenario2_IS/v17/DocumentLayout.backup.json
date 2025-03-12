@@ -1,0 +1,65 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Universidade\\3\u00BAAno\\ProjetoIS_D17\\Project\\Scenario2_IS\\Scenario2_IS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99E9D45A-54C0-4EC0-A3B0-CEF6C18693EC}|Scenario2_IS\\Scenario2_IS.csproj|e:\\universidade\\3\u00BAano\\projetois_d17\\project\\scenario2_is\\scenario2_is\\scenario2_is\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99E9D45A-54C0-4EC0-A3B0-CEF6C18693EC}|Scenario2_IS\\Scenario2_IS.csproj|solutionrelative:scenario2_is\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99E9D45A-54C0-4EC0-A3B0-CEF6C18693EC}|Scenario2_IS\\Scenario2_IS.csproj|E:\\Universidade\\3\u00BAAno\\ProjetoIS_D17\\Project\\Scenario2_IS\\Scenario2_IS\\scenario2_is\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{99E9D45A-54C0-4EC0-A3B0-CEF6C18693EC}|Scenario2_IS\\Scenario2_IS.csproj|solutionrelative:scenario2_is\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dd1ddd20-d59b-11da-a94d-0800200c9a66}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "E:\\Universidade\\3\u00BAAno\\ProjetoIS_D17\\Project\\Scenario2_IS\\Scenario2_IS\\Scenario2_IS\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Scenario2_IS\\Dashboard.cs",
+              "ToolTip": "E:\\Universidade\\3\u00BAAno\\ProjetoIS_D17\\Project\\Scenario2_IS\\Scenario2_IS\\Scenario2_IS\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Scenario2_IS\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T12:09:26.003Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "E:\\Universidade\\3\u00BAAno\\ProjetoIS_D17\\Project\\Scenario2_IS\\Scenario2_IS\\Scenario2_IS\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Scenario2_IS\\Dashboard.cs",
+              "ToolTip": "E:\\Universidade\\3\u00BAAno\\ProjetoIS_D17\\Project\\Scenario2_IS\\Scenario2_IS\\Scenario2_IS\\Dashboard.cs",
+              "RelativeToolTip": "Scenario2_IS\\Dashboard.cs",
+              "ViewState": "AgIAAM0BAAAAAAAAAAAuwN4BAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T12:10:39.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
