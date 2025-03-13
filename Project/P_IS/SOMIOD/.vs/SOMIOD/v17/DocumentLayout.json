@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Universidade\\3\u00BAAno\\ProjetoIS_D17\\Project\\P_IS\\SOMIOD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87DA7A37-D1B0-49DB-8EEB-445B65840616}|SOMIOD_API\\SOMIOD_API.csproj|e:\\universidade\\3\u00BAano\\projetois_d17\\project\\p_is\\somiod\\somiod_api\\controllers\\somiodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87DA7A37-D1B0-49DB-8EEB-445B65840616}|SOMIOD_API\\SOMIOD_API.csproj|solutionrelative:somiod_api\\controllers\\somiodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{dd1ddd20-d59b-11da-a94d-0800200c9a66}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SomiodController.cs",
+              "DocumentMoniker": "E:\\Universidade\\3\u00BAAno\\ProjetoIS_D17\\Project\\P_IS\\SOMIOD\\SOMIOD_API\\Controllers\\SomiodController.cs",
+              "RelativeDocumentMoniker": "SOMIOD_API\\Controllers\\SomiodController.cs",
+              "ToolTip": "E:\\Universidade\\3\u00BAAno\\ProjetoIS_D17\\Project\\P_IS\\SOMIOD\\SOMIOD_API\\Controllers\\SomiodController.cs",
+              "RelativeToolTip": "SOMIOD_API\\Controllers\\SomiodController.cs",
+              "ViewState": "AgIAAN8CAAAAAAAAAAAqwOICAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T12:14:25.835Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

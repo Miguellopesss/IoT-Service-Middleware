@@ -1,0 +1,26 @@
+C:\Users\franc\Desktop\1º Semestre - 3º Ano\IS\Projeto\P_IS\SOMIOD\AppA_LightBulb\bin\Debug\AppA_LightBulb.exe.config
+C:\Users\franc\Desktop\1º Semestre - 3º Ano\IS\Projeto\P_IS\SOMIOD\AppA_LightBulb\bin\Debug\AppA_LightBulb.exe
+C:\Users\franc\Desktop\1º Semestre - 3º Ano\IS\Projeto\P_IS\SOMIOD\AppA_LightBulb\bin\Debug\AppA_LightBulb.pdb
+C:\Users\franc\Desktop\1º Semestre - 3º Ano\IS\Projeto\P_IS\SOMIOD\AppA_LightBulb\bin\Debug\M2Mqtt.Net.dll
+C:\Users\franc\Desktop\1º Semestre - 3º Ano\IS\Projeto\P_IS\SOMIOD\AppA_LightBulb\bin\Debug\M2Mqtt.Net.pdb
+C:\Users\franc\Desktop\1º Semestre - 3º Ano\IS\Projeto\P_IS\SOMIOD\AppA_LightBulb\obj\Debug\AppA_LightBulb.csproj.AssemblyReference.cache
+C:\Users\franc\Desktop\1º Semestre - 3º Ano\IS\Projeto\P_IS\SOMIOD\AppA_LightBulb\obj\Debug\AppA_LightBulb.MainForm.resources
+C:\Users\franc\Desktop\1º Semestre - 3º Ano\IS\Projeto\P_IS\SOMIOD\AppA_LightBulb\obj\Debug\AppA_LightBulb.Properties.Resources.resources
+C:\Users\franc\Desktop\1º Semestre - 3º Ano\IS\Projeto\P_IS\SOMIOD\AppA_LightBulb\obj\Debug\AppA_LightBulb.csproj.GenerateResource.cache
+C:\Users\franc\Desktop\1º Semestre - 3º Ano\IS\Projeto\P_IS\SOMIOD\AppA_LightBulb\obj\Debug\AppA_LightBulb.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\1º Semestre - 3º Ano\IS\Projeto\P_IS\SOMIOD\AppA_LightBulb\obj\Debug\AppA_Lig.0422CBAE.Up2Date
+C:\Users\franc\Desktop\1º Semestre - 3º Ano\IS\Projeto\P_IS\SOMIOD\AppA_LightBulb\obj\Debug\AppA_LightBulb.exe
+C:\Users\franc\Desktop\1º Semestre - 3º Ano\IS\Projeto\P_IS\SOMIOD\AppA_LightBulb\obj\Debug\AppA_LightBulb.pdb
+E:\Universidade\3ºAno\IntegracaoDeSistemas\ProjetoIS\P_IS\SOMIOD\AppA_LightBulb\bin\Debug\AppA_LightBulb.exe.config
+E:\Universidade\3ºAno\IntegracaoDeSistemas\ProjetoIS\P_IS\SOMIOD\AppA_LightBulb\bin\Debug\AppA_LightBulb.exe
+E:\Universidade\3ºAno\IntegracaoDeSistemas\ProjetoIS\P_IS\SOMIOD\AppA_LightBulb\bin\Debug\AppA_LightBulb.pdb
+E:\Universidade\3ºAno\IntegracaoDeSistemas\ProjetoIS\P_IS\SOMIOD\AppA_LightBulb\bin\Debug\M2Mqtt.Net.dll
+E:\Universidade\3ºAno\IntegracaoDeSistemas\ProjetoIS\P_IS\SOMIOD\AppA_LightBulb\bin\Debug\M2Mqtt.Net.pdb
+E:\Universidade\3ºAno\IntegracaoDeSistemas\ProjetoIS\P_IS\SOMIOD\AppA_LightBulb\obj\Debug\AppA_LightBulb.csproj.AssemblyReference.cache
+E:\Universidade\3ºAno\IntegracaoDeSistemas\ProjetoIS\P_IS\SOMIOD\AppA_LightBulb\obj\Debug\AppA_LightBulb.MainForm.resources
+E:\Universidade\3ºAno\IntegracaoDeSistemas\ProjetoIS\P_IS\SOMIOD\AppA_LightBulb\obj\Debug\AppA_LightBulb.Properties.Resources.resources
+E:\Universidade\3ºAno\IntegracaoDeSistemas\ProjetoIS\P_IS\SOMIOD\AppA_LightBulb\obj\Debug\AppA_LightBulb.csproj.GenerateResource.cache
+E:\Universidade\3ºAno\IntegracaoDeSistemas\ProjetoIS\P_IS\SOMIOD\AppA_LightBulb\obj\Debug\AppA_LightBulb.csproj.CoreCompileInputs.cache
+E:\Universidade\3ºAno\IntegracaoDeSistemas\ProjetoIS\P_IS\SOMIOD\AppA_LightBulb\obj\Debug\AppA_Lig.0422CBAE.Up2Date
+E:\Universidade\3ºAno\IntegracaoDeSistemas\ProjetoIS\P_IS\SOMIOD\AppA_LightBulb\obj\Debug\AppA_LightBulb.exe
+E:\Universidade\3ºAno\IntegracaoDeSistemas\ProjetoIS\P_IS\SOMIOD\AppA_LightBulb\obj\Debug\AppA_LightBulb.pdb

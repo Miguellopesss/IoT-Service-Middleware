@@ -1,0 +1,125 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Projeto IS- API</title>
+    <meta charset="utf-8" />
+</head>
+<body>
+    <h1>Projeto IS- API</h1>
+    <div>
+        <h2>All Applications</h2>
+        <ul id="applications"></ul>
+    </div>
+    <div>
+        <h2>Search Application by Name</h2>
+        <input type="text" id="appName" size="20" />
+        <input type="button" value="Search" onclick="findApplicationDetails();" />
+        <div>
+            <h3>Application Details</h3>
+            <p id="application"></p>
+        </div>
+        <div>
+            <h3>Containers</h3>
+            <ul id="applicationContainers"></ul>
+        </div>
+        <div>
+            <h3>Notifications</h3>
+            <ul id="applicationNotifications"></ul>
+        </div>
+        <div>
+            <h3>Records</h3>
+            <ul id="applicationRecords"></ul>
+        </div>
+    </div>
+    <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-2.1.4.min.js"></script>
+    <script>
+        var baseUri = 'http://localhost:61626/api/somiod';
+
+        $(document).ready(function () {
+            $.get(baseUri)
+                .done(function (data) {
+                    $.each(data, function (key, app) {
+                        $('<li>', { text: app.Name }).appendTo($('#applications'));
+                    });
+                })
+                .fail(function (jqxhr, textStatus, error) {
+                    alert("Request failed: " + textStatus + ", " + error);
+                });
+        });
+
+        function findApplicationDetails() {
+            var name = $('#appName').val();
+            $.getJSON(baseUri + '/' + name)
+                .done(function (data) {
+                    $('#application').text(data.Name + ": " + data.CreationDateTime);
+                    loadApplicationContainers(name);
+                    loadApplicationNotifications(name);
+                    loadApplicationRecords(name);
+                })
+                .fail(function (jqxhr, textStatus, error) {
+                    alert("Request failed: " + textStatus + ", " + error);
+                });
+        }
+
+        function loadApplicationContainers(appName) {
+            $.ajax({
+                url: baseUri + '/' + appName,
+                data: { 'somiod-locate': 'container' },
+                dataType: 'json',
+                beforeSend: function (xhr) {
+                    xhr.setRequestHeader('somiod-locate', 'container');
+                },
+                success: function (data) {
+                    $('#applicationContainers').empty();
+                    $.each(data, function (key, container) {
+                        $('<li>', { text: container.Name ? container.Name + ": " + container.CreationDateTime : JSON.stringify(container) }).appendTo($('#applicationContainers'));
+                    });
+                },
+                error: function (jqxhr, textStatus, error) {
+                    alert("Request failed: " + textStatus + ", " + error);
+                }
+            });
+        }
+
+        function loadApplicationNotifications(appName) {
+            $.ajax({
+                url: baseUri + '/' + appName,
+                data: { 'somiod-locate': 'notification' },
+                dataType: 'json',
+                beforeSend: function (xhr) {
+                    xhr.setRequestHeader('somiod-locate', 'notification');
+                },
+                success: function (data) {
+                    $('#applicationNotifications').empty();
+                    $.each(data, function (key, notification) {
+                        $('<li>', { text: notification.Name ? notification.Name + ": " + notification.CreationDateTime : JSON.stringify(notification) }).appendTo($('#applicationNotifications'));
+                    });
+                },
+                error: function (jqxhr, textStatus, error) {
+                    alert("Request failed: " + textStatus + ", " + error);
+                }
+            });
+        }
+
+        function loadApplicationRecords(appName) {
+            $.ajax({
+                url: baseUri + '/' + appName,
+                data: { 'somiod-locate': 'record' },
+                dataType: 'json',
+                beforeSend: function (xhr) {
+                    xhr.setRequestHeader('somiod-locate', 'record');
+                },
+                success: function (data) {
+                    $('#applicationRecords').empty();
+                    $.each(data, function (key, record) {
+                        $('<li>', { text: record.Name ? record.Name + ": " + record.CreationDateTime : JSON.stringify(record) }).appendTo($('#applicationRecords'));
+                    });
+                },
+                error: function (jqxhr, textStatus, error) {
+                    alert("Request failed: " + textStatus + ", " + error);
+                }
+            });
+        }
+    </script>
+</body>
+</html>

@@ -1,0 +1,10 @@
+C:\Users\franc\Desktop\1º Semestre - 3º Ano\IS\Projeto\P_IS\SOMIOD\AppB_Switch\bin\Debug\AppB_Switch.exe.config
+C:\Users\franc\Desktop\1º Semestre - 3º Ano\IS\Projeto\P_IS\SOMIOD\AppB_Switch\bin\Debug\AppB_Switch.exe
+C:\Users\franc\Desktop\1º Semestre - 3º Ano\IS\Projeto\P_IS\SOMIOD\AppB_Switch\bin\Debug\AppB_Switch.pdb
+C:\Users\franc\Desktop\1º Semestre - 3º Ano\IS\Projeto\P_IS\SOMIOD\AppB_Switch\obj\Debug\AppB_Switch.csproj.AssemblyReference.cache
+C:\Users\franc\Desktop\1º Semestre - 3º Ano\IS\Projeto\P_IS\SOMIOD\AppB_Switch\obj\Debug\AppB_Switch.Properties.Resources.resources
+C:\Users\franc\Desktop\1º Semestre - 3º Ano\IS\Projeto\P_IS\SOMIOD\AppB_Switch\obj\Debug\AppB_Switch.csproj.GenerateResource.cache
+C:\Users\franc\Desktop\1º Semestre - 3º Ano\IS\Projeto\P_IS\SOMIOD\AppB_Switch\obj\Debug\AppB_Switch.csproj.CoreCompileInputs.cache
+C:\Users\franc\Desktop\1º Semestre - 3º Ano\IS\Projeto\P_IS\SOMIOD\AppB_Switch\obj\Debug\AppB_Switch.exe
+C:\Users\franc\Desktop\1º Semestre - 3º Ano\IS\Projeto\P_IS\SOMIOD\AppB_Switch\obj\Debug\AppB_Switch.pdb
+C:\Users\franc\Desktop\1º Semestre - 3º Ano\IS\Projeto\P_IS\SOMIOD\AppB_Switch\obj\Debug\AppB_Switch.AppB_Form.resources

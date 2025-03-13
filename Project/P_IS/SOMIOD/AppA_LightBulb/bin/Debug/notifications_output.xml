@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Notifications>
+  <Notification>
+    <Timestamp>2024-12-17T10:10:09.9065707+00:00</Timestamp>
+    <Message>Light ON</Message>
+  </Notification>
+  <Notification>
+    <Timestamp>2024-12-17T10:46:13.2260759+00:00</Timestamp>
+    <Message>Light OFF</Message>
+  </Notification>
+  <Notification>
+    <Timestamp>2024-12-17T11:23:49.7041396+00:00</Timestamp>
+    <Message>Light ON</Message>
+  </Notification>
+  <Notification>
+    <Timestamp>2024-12-22T20:11:19.7802122+00:00</Timestamp>
+    <Message>Light ON</Message>
+  </Notification>
+  <Notification>
+    <Timestamp>2024-12-22T20:11:22.7882292+00:00</Timestamp>
+    <Message>Light OFF</Message>
+  </Notification>
+  <Notification>
+    <Timestamp>2024-12-22T20:11:24.119619+00:00</Timestamp>
+    <Message>Light ON</Message>
+  </Notification>
+  <Notification>
+    <Timestamp>2024-12-22T20:11:34.8930989+00:00</Timestamp>
+    <Message>Light ON</Message>
+  </Notification>
+  <Notification>
+    <Timestamp>2024-12-22T20:11:35.9978338+00:00</Timestamp>
+    <Message>Light OFF</Message>
+  </Notification>
+  <Notification>
+    <Timestamp>2024-12-22T20:11:39.0139279+00:00</Timestamp>
+    <Message>Light ON</Message>
+  </Notification>
+  <Notification>
+    <Timestamp>2024-12-22T20:11:39.8102435+00:00</Timestamp>
+    <Message>Light OFF</Message>
+  </Notification>
+  <Notification>
+    <Timestamp>2024-12-22T20:11:40.2657983+00:00</Timestamp>
+    <Message>Light ON</Message>
+  </Notification>
+  <Notification>
+    <Timestamp>2024-12-22T20:11:40.7070897+00:00</Timestamp>
+    <Message>Light OFF</Message>
+  </Notification>
+  <Notification>
+    <Timestamp>2024-12-22T20:11:41.1204502+00:00</Timestamp>
+    <Message>Light ON</Message>
+  </Notification>
+</Notifications>

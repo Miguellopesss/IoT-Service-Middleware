@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Configuration>
+	<TimeRange>
+		<Start>2024-06-01T00:00:00</Start>
+		<End>2025-06-01T23:59:59</End>
+	</TimeRange>
+	<OutputFile>notifications_output.xml</OutputFile>
+</Configuration>
